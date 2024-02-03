@@ -1,0 +1,12 @@
+
+1. Read this dataset in pandas.
+2. Convert all the dates avaible in dataset to timestamp format in pandas.
+3. Find out in this data that how many unique id's we have?
+4. Which id is one of the active id that you have in whole dataset?
+5. How many of them have not logged there activity find out in terms of number of ids?
+6. Find out who is the laziest person id that we have in dataset?
+7. Explore over an internet that how much calories burn is required for a healthy person and find out how many healthy person we have in our dataset?
+8. How many person are not a regular person with respect to activity try to find out those?
+9. Who is the third most active person in this dataset find out those in pandas?
+10. Who is the 5th most laziest person avilable in dataset find it out?
+11. What is a total cummulative calories burn for a person find out?
